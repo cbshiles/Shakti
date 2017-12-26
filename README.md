@@ -1,1 +1,3 @@
-TeMPLATE MODULE FOR PERL6
+# Shakti
+Perl6 Library
+
