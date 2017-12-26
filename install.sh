@@ -1,0 +1,1 @@
+zef install . --force-install

@@ -1,0 +1,16 @@
+{
+    "perl" : "6.c",
+    "name" : "Shakti::Script",
+    "version" : "0.0.1",
+    "description" : "Library for easy shell scripting",
+    "authors" : [ "Carl Shiles" ], 
+    "license" : "GPL-3.0",
+    "provides" : {
+        "Shakti::Script" : "lib/Shakti/Script.pm6",
+	"Shakti::StringNest" : "lib/Shakti/StringNest.pm6"
+    },
+    "depends" : [ ],
+    "resources" : [ ],
+    "to-do" : "put on github",
+    "source-url" : "git://github.com/you/Vortex-TotalPerspective.git"
+}
